@@ -62,7 +62,12 @@ The notebook includes full data preparation, model training, evaluation, and tes
 | Scikit-learn | Machine learning |
 | XGBoost | Advanced regression model |
 
+---
 
 
+---
 
+##Conclusion
+
+This project provides a complete pipeline for predicting Polish property prices, offering useful insights into market patterns and building a foundation for further machine-learning real-estate applications.
 
