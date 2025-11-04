@@ -1,6 +1,6 @@
 # House Price Prediction in Poland
 
-This project predicts house prices in Poland using machine learning, implemented in a Jupyter Notebook: **`HousePredictionPoland.ipynb`**.
+This project predicts house prices in Poland using machine learning, implemented in a Jupyter Notebook: **`HousePredictionPoland.ipynb`** from data https://www.kaggle.com/datasets/dawidcegielski/house-prices-in-poland
 
 ##  Project Overview
 
